@@ -1,5 +1,3 @@
-Here is a README for the hospital management system code in C:
-
 # Hospital Management System
 
 This is a simple hospital management system implemented in C for managing patient records, hospital staff records, and inventory. 
